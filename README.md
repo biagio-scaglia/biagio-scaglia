@@ -1,5 +1,10 @@
-# 💫 About Me:<br>👋 Ciao! Sono Biagio Scaglia, aspirante full-stack developer con una forte passione per il web design, la programmazione e la comunicazione digitale.<br><br>🎯 Attualmente mi sto formando presso ITS Apulia Digital Maker per diventare uno sviluppatore completo. Mi concentro su un stack solido e concreto: HTML, CSS, JavaScript, C, PHP e MySQL, con un occhio sempre attento all’accessibilità, alla responsività e alle best practice moderne.<br>📫 Contatti: biagioscaglia01@gmail.com<br>🌐 Portfolio (in crescita): biagioscaglia.com<br><br><br>
+💫 About Me:  
+👋 Ciao! Sono Biagio Scaglia, aspirante full-stack developer con una forte passione per il web design, la programmazione e la comunicazione digitale.  
 
+🎯 Attualmente mi sto formando presso ITS Apulia Digital Maker per diventare uno sviluppatore completo. Mi concentro su un stack solido e concreto: HTML, CSS, JavaScript, C, PHP e MySQL, con un occhio sempre attento all’accessibilità, alla responsività e alle best practice moderne.  
+
+📫 Contatti: biagioscaglia01@gmail.com  
+🌐 Portfolio (in crescita): biagioscaglia.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biagio-scaglia) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/biagio-scaglia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biagioscaglia01@gmail.com) 
