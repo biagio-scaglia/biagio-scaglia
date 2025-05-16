@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:  <br>👋 Ciao! Sono Biagio Scaglia, aspirante full-stack developer con una forte passione per il web design, la programmazione e la comunicazione digitale.  
+ <br>👋 Ciao! Sono Biagio Scaglia, aspirante full-stack developer con una forte passione per il web design, la programmazione e la comunicazione digitale.  
 
 
 ## 🌐 Socials:
