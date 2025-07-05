@@ -1,14 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on: front-end projects & UX/UI case studies<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on: web apps, UX/UI, creative dev projects<br><br>🤝 I’m looking for help with: backend scaling, clean architecture<br><br>🌱 I’m currently learning: Dart, Flutter, Vue.js<br><br>💬 Ask me about: front-end dev, UI design, gamification, Sonic content<br><br>⚡ Fun fact: I built my first website at 14 and never stopped coding<br><br>
+# 💫 About Me
 
+🎮 Front-end Dev • 🎨 UX/UI Designer • 🚀 Creative Technologist  
+Sono Biagio — appassionato di codice, design e storie digitali che lasciano il segno. Creo esperienze web interattive e curate al pixel, con un debole per Sonic e la gamification.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/biagio-scaglia/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/biagio-scaglia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biagio.scaglia01@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🚧 Attualmente Sto Lavorando Su:
+- Progetti front-end moderni con **HTML/CSS/JS, Vue.js e Flutter**
+- Case study su **esperienze utente & microinterazioni**
+- Esperimenti di UI animata (perché anche il codice vuole la sua scena)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🤝 Collaborazioni Cercate:
+- Web app interattive e creative
+- Progetti open-source con anima (e design ❤️)
+- Chi vuole trasformare idee in esperienze 🔥
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ Posso Aiutarti Con:
+- Front-end dev (HTML, CSS, JS, Flutter)
+- UI/UX Design e componenti riutilizzabili
+- Gamification e contenuti digitali su brand pop
+
+## 🚀 Imparando Al Momento:
+- **Dart & Flutter** per cross-platform mobile magic  
+- **Vue.js 3** con Composition API  
+- Architetture pulite e scalable con Laravel & REST
+
+## 💬 Fatti un Giro Su:
+- UI Design  
+- Animazioni front-end  
+- Sonic the Hedgehog content (per davvero!)  
+- Accessibilità, motion design, e dev che comunica
+
+> 🧠 *"Ho costruito il mio primo sito a 14 anni. Da allora non ho mai smesso di scrivere codice."*
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biagio-scaglia/)  
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/biagio-scaglia)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biagio.scaglia01@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### 🎨 UI & Design
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat&logo=bulma&logoColor=white)
+
+### 🛠 Tools & DevOps
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+
+### 💾 Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## ✍️ Dev Quote of the Day
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Powered by GPRM - customized by Coddy, il tuo sidekick -->
