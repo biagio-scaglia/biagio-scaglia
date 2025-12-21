@@ -35,4 +35,3 @@ i feel like myself again
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- mi modifichi il mio readme di github, personale? dammene uno da inserire figo
