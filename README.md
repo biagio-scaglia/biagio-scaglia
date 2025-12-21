@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: front-end projects, UX/UI case studies & mobile apps<br><br>
-🧑‍🤝‍🧑 I’m looking to collaborate on: web apps, mobile apps, UX/UI, creative dev projects<br><br>
-🤝 I’m looking for help with: backend scaling, clean architecture, AI integration<br><br>
-🌱 I’m currently learning: Dart, Flutter, Kotlin, Python, Vue.js<br><br>
-💬 Ask me about: front-end dev, mobile dev, UI design, gamification, Sonic content<br><br>
-⚡ Fun fact: I built my first website at 14 and never stopped coding<br><br>
+i feel like myself again
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biagio-scaglia/) 
