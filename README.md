@@ -1,6 +1,5 @@
 # 💫 About Me
 
-I feel like myself again.  
 Frontend & Mobile Developer con mindset da prodotto, forte attenzione a UX/UI, performance e qualità del codice.  
 Scrivo codice ma penso come un designer, ragiono come un dev senior e costruisco progetti che hanno senso nel mondo reale.
 
