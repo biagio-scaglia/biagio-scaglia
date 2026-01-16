@@ -14,7 +14,6 @@ Gaming, cultura pop e tecnologia fanno parte del mio DNA 🎮⚡
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biagio-scaglia/)  
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/biagio-scaglia)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biagio.scaglia01@gmail.com)  
-🌍 **Website:** https://biagioscaglia.com
 
 ---
 
