@@ -1,5 +1,9 @@
 # 💫 About Me
 
+<a href="https://gitroll.io/profile/uxWKvCG5tpdSXiDvtAfstI3BrSp03" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uxWKvCG5tpdSXiDvtAfstI3BrSp03?theme=retro" alt="GitRoll Profile Badge"/>
+</a>
+
 Frontend & Mobile Developer con mindset da prodotto, forte attenzione a UX/UI, performance e qualità del codice.  
 Scrivo codice ma penso come un designer, ragiono come un dev senior e costruisco progetti che hanno senso nel mondo reale.
 
@@ -13,7 +17,7 @@ Gaming, cultura pop e tecnologia fanno parte del mio DNA 🎮⚡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biagio-scaglia/)  
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/biagio-scaglia)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biagio.scaglia01@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biagio.scaglia01@gmail.com)
 
 ---
 
@@ -60,9 +64,6 @@ Gaming, cultura pop e tecnologia fanno parte del mio DNA 🎮⚡
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-<a href="https://gitroll.io/profile/uxWKvCG5tpdSXiDvtAfstI3BrSp03" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxWKvCG5tpdSXiDvtAfstI3BrSp03?theme=retro" alt="GitRoll Profile Badge"/></a>
 ---
 
 ### ✍️ Random Dev Quote
