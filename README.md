@@ -62,16 +62,7 @@ Gaming, cultura pop e tecnologia fanno parte del mio DNA 🎮⚡
 
 ---
 
-## 🧠 Mindset & Skills
-
-- Product-oriented development
-- UX driven interfaces
-- Clean, scalable and maintainable code
-- SEO friendly web development
-- Performance and accessibility focus
-- Strong autonomy and problem solving
-- Social media & content creation (gaming focused)
-
+<a href="https://gitroll.io/profile/uxWKvCG5tpdSXiDvtAfstI3BrSp03" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxWKvCG5tpdSXiDvtAfstI3BrSp03?theme=retro" alt="GitRoll Profile Badge"/></a>
 ---
 
 ### ✍️ Random Dev Quote
