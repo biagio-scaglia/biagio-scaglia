@@ -9,7 +9,7 @@ Scrivo codice ma penso come un designer, ragiono come un dev senior e costruisco
 
 Creo web app, mobile app e interfacce pulite, moderne e scalabili.  
 Sono ossessionato dalla crescita, dall’imparare cose nuove e dal trasformare idee in prodotti concreti.  
-Gaming, cultura pop e tecnologia fanno parte del mio DNA 🎮⚡
+Gaming, cultura pop e tecnologia fanno parte del mio DNA 
 
 ---
 
