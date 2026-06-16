@@ -9,6 +9,7 @@ Frontend & Mobile Developer specializzato nella realizzazione di applicazioni we
 Unisco sviluppo software e UX/UI design per progettare esperienze digitali efficaci, mantenendo sempre attenzione a usabilità, manutenibilità del codice e scalabilità del prodotto.
 
 Curioso per natura, investo costantemente nella crescita professionale e nell'esplorazione di nuove tecnologie.
+
 ---
 
 ## 🌐 Socials
