@@ -4,13 +4,11 @@
   <img src="https://gitroll.io/api/badges/profiles/v1/uxWKvCG5tpdSXiDvtAfstI3BrSp03?theme=retro" alt="GitRoll Profile Badge"/>
 </a>
 
-Frontend & Mobile Developer con mindset da prodotto, forte attenzione a UX/UI, performance e qualità del codice.  
-Scrivo codice ma penso come un designer, ragiono come un dev senior e costruisco progetti che hanno senso nel mondo reale.
+Frontend & Mobile Developer specializzato nella realizzazione di applicazioni web e mobile moderne, performanti e orientate all'utente.
 
-Creo web app, mobile app e interfacce pulite, moderne e scalabili.  
-Sono ossessionato dalla crescita, dall’imparare cose nuove e dal trasformare idee in prodotti concreti.  
-Gaming, cultura pop e tecnologia fanno parte del mio DNA 
+Unisco sviluppo software e UX/UI design per progettare esperienze digitali efficaci, mantenendo sempre attenzione a usabilità, manutenibilità del codice e scalabilità del prodotto.
 
+Curioso per natura, investo costantemente nella crescita professionale e nell'esplorazione di nuove tecnologie.
 ---
 
 ## 🌐 Socials
